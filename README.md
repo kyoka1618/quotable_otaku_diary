@@ -1,0 +1,1 @@
+# quotable_otaku_diary
