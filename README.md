@@ -71,8 +71,11 @@ SNSなどを通して、アプリを宣伝する
 - 日記のお気に入り機能
 - 日記のお気に入り一覧
 - 日記のキーワード検索
+- LINE通知機能
+- 今日の名言お知らせ
 
 ■ 機能の実装方針予定
+- 感情分析を行うGoogle Cloud Natural Language API
 - Rails7系
 - Ruby3系
 - カレンダーはRailsのgemで実装予定
