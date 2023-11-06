@@ -1,5 +1,8 @@
 # quotable_otaku_diary
 
+画面遷移図
+https://www.figma.com/file/AeJn405Iu5SyKvG7Lmr4NP/Calendar-Generator-(%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3)?type=design&node-id=0%3A1&mode=design&t=amKnLzy1GHle5mqF-1
+
 ■サービス概要
 
 日記アプリに漫画・アニメの名言を日替わりで表示します。その日の気持ちに合わせて名言が変わります。
