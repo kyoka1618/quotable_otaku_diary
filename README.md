@@ -96,4 +96,4 @@ SNSなどを通して、アプリを宣伝する
 他利用できそうな技術を検討中です。
 
 ER図
-![20231107_ER図](https://github.com/kyoka1618/quotable_otaku_diary/assets/124945061/ea2e58cd-9e80-4594-bbb1-c92955f5c72a)
+![20231107_ER図](https://github.com/kyoka1618/quotable_otaku_diary/assets/124945061/1c35ed4c-42d5-4612-8b5f-13e6b1fca371)
